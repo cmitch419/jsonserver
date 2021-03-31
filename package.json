@@ -1,0 +1,14 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "evvybook": "json-server src/evvybook.js --port 3001"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.2"
+  }
+}
